@@ -1,0 +1,6 @@
+{
+  "name": "IBM SkillsBuild Cybersecurity Project Suite",
+  "description": "Complete submission package and interactive audit suite for IBM SkillsBuild & BharatCares Cybersecurity Bootcamp 2026: Automated Web Scanner and ML Network Intrusion Detector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
